@@ -10,3 +10,8 @@ if(50<=45){
     console.log("50 is less than or equal to 45");
 }
 
+const price = 1400;
+const money = 5000;
+if(price < money){
+    console.log("I'll buy it!");}
+

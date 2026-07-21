@@ -1,8 +1,8 @@
-const salary = 25000;
+const salary = 75000;
 const isRich = true;
 const hasCar = true;
 
-if(salary > 50000){
+if(salary > 50000 && isRich === true && hasCar === true){
     console.log("Yoy're selected!");
     console.log("Congratulations");
 }

@@ -16,3 +16,11 @@ if(salary > 75000 || isRich === true){  // 2 ta condition er 1 ta true holei hob
 else{
     console.log('Bye bye');
 }
+
+if((salary > 50000 && hasCar) || isRich){
+    console.log('ok');
+}
+
+if (20 < 30 || (20 === 20 && 30 === 30)){
+    
+}

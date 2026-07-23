@@ -5,6 +5,6 @@ const player3 = 56;
 const player3 = 56;
 const player3 = 56;
 
-//array can hold more than one value or data
+//array can hold more than similar one value or data
 const team = [123, 89,45,69,78]
 const players = ['Hridoy', 'Foysal', 'Ferdous']

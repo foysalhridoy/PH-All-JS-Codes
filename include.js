@@ -10,3 +10,4 @@ else{
 const fileName = 'My Final final.pdf';
 
 console.log(fileName.endsWith('.pdf'));
+console.log(fileName.startsWith('.pdf'));

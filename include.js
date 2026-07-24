@@ -6,3 +6,7 @@ if(email.includes('.com')){
 else{
     console.log('no');
 }
+
+const fileName = 'My Final final.pdf';
+
+console.log(fileName.endsWith('.pdf'));
